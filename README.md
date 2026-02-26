@@ -59,3 +59,11 @@ It is NOT a medical diagnostic tool and must not be used for clinical decision-m
 Model predictions and visual explanations are experimental and should not replace professional medical evaluation.
 
 ---
+
+## Authors
+
+Fernanda Hernandez
+Paula Cáceres
+Ivette Benavides
+Regina Villaseñor
+Hildana Aklilu
