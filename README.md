@@ -63,11 +63,7 @@ Model predictions and visual explanations are experimental and should not replac
 ## Authors
 
 - Fernanda Hernandez
-
 - Paula Cáceres
-
 - Ivette Benavides
-
 - Regina Villaseñor
-
 - Hildana Aklilu
